@@ -1,0 +1,49 @@
+{
+    "err": "Error!",
+    "unknown": "I got an unknown error!\nPlease wait a few minutes and try again.",
+    "ALL_Footer": "ALL Bot",
+    "no_reason": "No reason provided.",
+    "join_message": "Hi!\nI am ALL, a security/moderation bot who aims to make your server more secure and active!",
+    "success": "Success!",
+    "enter_user": "Enter the guild member.",
+    "provide_reason": "Provide a reason",
+
+    "ban_description": "Ban the guild member",
+    "self_ban": "You cannot ban yourself!",
+    "bot_ban": "You cannot ban me.",
+    "user_ban_hierarchy": "I cannot ban this user due to role hierarchy.",
+
+    "self_kick": "You cannot kick yourself!",
+    "bot_kick": "You cannot kick me.",
+    "user_kick_hierarchy": "I cannot kick this user due to role hierarchy.",
+
+    "self_softban": "You cannot softban yourself!",
+    "bot_softban": "You cannot softban me.",
+    "user_softban_hierarchy": "I cannot softban this user due to role hierarchy.",
+
+    "self_votekick": "You cannot initiate a vote kick against yourself.",
+    "bot_votekick": "I cannot be kicked via vote kick.",
+    "admin_votekick": "You cannot initiate a vote kick against an administrator.",
+    "same_votekick_user": "A vote kick is already in progress for this user.",
+
+    "warned": "You have been warned!",
+    "reason_provided": "You have been warned for the following reason:\n",
+    "warn_id": "Warning ID: ",
+
+    "user_id": "User ID: ",
+    "username": "Username: ",
+    "reason": "Reason: ",
+    "duration": "Duration: ",
+    "indefinite": "Indefinite",
+    "user": "The user ",
+    "bot": "The bot ",
+    "mod": "Moderator: ",
+
+    "mute_title": "Muted",    
+    "mute_description": "Mute a user.",
+    "mute_success": "has been successfully muted",
+    "mute_role": "Muted",
+    "self_mute": "You cannot mute yourself.",
+    "bot_mute": "You cannot mute me.",
+    "user_mute_hierarchy": "I cannot mute this user due to role hierarchy."
+}

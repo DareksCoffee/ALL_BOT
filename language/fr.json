@@ -1,0 +1,36 @@
+{
+    "err": "Erreur!",
+    "unknown": "J'ai reçu une erreur inconnue !\nVeuillez patienter quelques minutes et réessayer.",
+    "ALL_Footer": "Bot ALL",
+    "no_reason": "Aucune raison fournie.",
+    "join_message": "Salut !\nJe suis ALL, un bot de sécurité/modération qui vise à rendre votre serveur plus sécurisé et actif !",
+    "success": "Succès!",
+    "enter_user": "Entrez le membre du serveur.",
+    "provide_reason": "Fournit une raison",
+
+    "ban_description": "Ban un membre du serveur",
+    "self_ban": "Vous ne pouvez pas vous bannir !",
+    "bot_ban": "Vous ne pouvez pas me bannir.",
+    "user_ban_hierarchy": "Je ne peux pas bannir cet utilisateur en raison de la hiérarchie des rôles.",
+
+    "self_kick": "Vous ne pouvez pas vous expulser !",
+    "bot_kick": "Vous ne pouvez pas m'expulser.",
+    "user_kick_hierarchy": "Je ne peux pas expulser cet utilisateur en raison de la hiérarchie des rôles.",
+
+    "self_softban": "Vous ne pouvez pas vous softban !",
+    "bot_softban": "Vous ne pouvez pas me softban.",
+    "user_softban_hierarchy": "Je ne peux pas softban cet utilisateur en raison de la hiérarchie des rôles.",
+
+    "self_votekick": "Vous ne pouvez pas lancer un vote-kick contre vous-même.",
+    "bot_votekick": "Je ne peux pas être expulsé via un vote kick.",
+    "admin_votekick": "Vous ne pouvez pas lancer un vote kick contre un administrateur.",
+    "same_votekick_user": "Un vote kick est déjà en cours pour cet utilisateur.",
+
+    "warned": "Vous avez été averti !",
+    "reason_provided": "Vous avez été averti pour la raison suivante :\n",
+    "warn_id": "ID de l'avertissement : ",
+
+    "user_id": "ID de l'utilisateur : ",
+    "user": "L'utilisateur ",
+    "mod": "Modérateur : "
+}
