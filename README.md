@@ -1,2 +1,5 @@
-# ALL_BOT
-ALL is a powerful security bot to manage, moderate and entertain your server.
+# Installation
+Do the following
+```
+pip install -r requirements
+```
